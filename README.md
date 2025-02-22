@@ -1,14 +1,14 @@
 
-### Hi, my name is Hardanish Singh
+### Hi, my name is Aditya Narayan Mishra
 
 ### ✅ &nbsp;Connect with me
-<a href="https://ca.linkedin.com/in/hardanishsingh">
+<a href="https://ca.linkedin.com/in/aditya-narayan2020">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="https://leetcode.com/Hardanish-Singh/">
+<a href="https://leetcode.com//">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40"/>
 </a>
-<a href="https://github.com/Hardanish-Singh">
+<a href="https://github.com/adityanarayan2021">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 
@@ -39,6 +39,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img height="170px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hardanish-Singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hardanish-Singh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityanarayan2021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityanarayan2021h&layout=compact&langs_count=8&theme=algolia"/>
 </p>
